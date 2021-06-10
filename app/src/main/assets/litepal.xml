@@ -8,7 +8,7 @@
     <list>
         <mapping class="com.zxn.weatherforecast.db.Province" />
         <mapping class="com.zxn.weatherforecast.db.City" />
-        <mapping class="com.zxn.weatherforecast.db.Country" />
+        <mapping class="com.zxn.weatherforecast.db.County" />
     </list>
 
 </litepal>
